@@ -7,6 +7,5 @@ __pycache__/
 .env
 instance/
 reports/
-dependency-scan/
 *.sqlite3
 *.sqlite3-*
