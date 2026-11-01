@@ -1,0 +1,12 @@
+.venv/
+.idea/
+.work/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+instance/
+reports/
+dependency-scan/
+*.sqlite3
+*.sqlite3-*
